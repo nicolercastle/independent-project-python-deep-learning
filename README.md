@@ -10,7 +10,8 @@ Note: All rights reserved.  This code is shared for educational and portfolio pu
 ## Overview
 
 - Built and compared three classification models: logistic regression, MLP, and CNN
-- Evaluated performance using accuracy, precision, recall, and AUC
+- Applied PCA for dimensionality reduction and SMOTE for class balancing
+- Evaluated performance using accuracy and validation loss
 - Designed and trained deep learning architectures using TensorFlow/Keras
 - Visualized performance metrics and model comparisons
 - Delivered a reproducible pipeline and professional report
@@ -19,9 +20,10 @@ Note: All rights reserved.  This code is shared for educational and portfolio pu
 
 - Python (`NumPy`, `pandas`, `scikit-learn`, `TensorFlow`/`Keras`, `matplotlib`, `imbalanced-learn`)
 - Deep learning model architecture design and evaluation
-- Data preprocessing and encoding
+- Data preprocessing, scaling, and encoding
+- Dimensionality reduction (PCA) and class balancing (SMOTE)
 - Performance metric visualization
-
+  
 ## Project Highlights
 
 - Completed independently in under one week
