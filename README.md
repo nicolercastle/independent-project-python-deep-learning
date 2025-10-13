@@ -1,8 +1,8 @@
-Deep learning project comparing logistic regression, MLP, and CNN models for binary classification using Python.
+Deep learning project comparing logistic regression, MLP, and CNN models for multi-class classification using Python.
 
 # Python Deep Learning Independent Project
 
-This repository contains the full code pipeline for an independent deep learning project completed during finals week. The goal was to compare logistic regression, multilayer perceptron (MLP), and convolutional neural network (CNN) models for binary classification using a real-world dataset.
+This repository contains the full code pipeline for an independent deep learning project completed during finals week. The goal was to use deep learning to analyze a real-world data set.  I compared logistic regression, multilayer perceptron (MLP), and convolutional neural network (CNN) models for multi-class classification using a real-world wine quality dataset.
 
 ## License and Usage
 Note: All rights reserved.  This code is shared for educational and portfolio purposes only. Please do not reuse or redistribute without permission.
