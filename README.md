@@ -17,7 +17,7 @@ Note: All rights reserved.  This code is shared for educational and portfolio pu
 
 ## Tools Used
 
-- Python (`NumPy`, `pandas`, `scikit-learn`, `TensorFlow`/`Keras`, `matplotlib`)
+- Python (`NumPy`, `pandas`, `scikit-learn`, `TensorFlow`/`Keras`, `matplotlib`, `imbalanced-learn`)
 - Deep learning model architecture design and evaluation
 - Data preprocessing and encoding
 - Performance metric visualization
