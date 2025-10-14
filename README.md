@@ -26,7 +26,6 @@ Note: All rights reserved.  This code is shared for educational and portfolio pu
 
 ## Dataset Source
 Cortez, P., et al. (2009). Wine Quality [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C56S3T.
-Or click here:  https://archive.ics.uci.edu/dataset/186/wine+quality
   
 ## Project Highlights
 
