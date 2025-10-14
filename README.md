@@ -41,7 +41,7 @@ Or click here:  https://archive.ics.uci.edu/dataset/186/wine+quality
 
 ## Results Summary
 
-This project explored wine quality prediction using multiple deep learning architectures. While CNNs offered hierarchical feature extraction, PCA-based MLP models proved more stable and interpretable. Random Forest outperformed all deep learning models, highlighting the importance of feature structure in tabular datasets. The final PCA-based MLP achieved 55.69% validation accuracy, and the CNN peaked at 56.77%, both significantly outperforming baseline models.
+This project explored wine quality prediction using multiple deep learning architectures. While CNNs offered hierarchical feature extraction, PCA-based MLP models proved more stable and interpretable. Random Forest outperformed all deep learning models, highlighting the importance of feature structure in tabular datasets. The final PCA-based MLP (without learning rate scheduler) achieved 55.69% validation accuracy, and the CNN peaked at 56.77%, both significantly outperforming baseline models.
 
 ## Model Architectures
 
